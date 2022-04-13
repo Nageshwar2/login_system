@@ -20,7 +20,7 @@ Laravel 8 Login System
   
 **Run :**
   . Setup a MySql Database of name login_demo.
-  . import the login_demo.sql file into your database.
+  . import the login_demo.sql file into your database (inside db folder ie: db/login_demo.sql).
   . install any missing or required dependenciew using command "composer install". (will require composer to be installed over php)
   . Run commands to setup environmet key and using command "php artisan key:generate" if not already.
   . Run the project.
